@@ -1,0 +1,31 @@
+{
+  "students": [
+    {
+      "id": "7c42",
+      "name": "Raja Islam",
+      "age": 24,
+      "gender": "male",
+      "location": "gajipur",
+      "skill": "Textail Engeener",
+      "image": "https://img.freepik.com/free-photo/happy-man-with-joyful-expression-has-perfect-smile-white-teeth-laughs-something-funny_273609-17078.jpg?size=626&ext=jpg&ga=GA1.1.44546679.1716854400&semt=ais_user"
+    },
+    {
+      "id": "037c",
+      "name": "Masud Rana",
+      "age": 23,
+      "gender": "male",
+      "location": "Mirpur",
+      "skill": "MERN Stack Developer",
+      "image": "https://img.freepik.com/free-photo/african-american-man-wearing-white-shirt-posing_273609-22698.jpg"
+    },
+    {
+      "id": "92c1",
+      "name": "Sakib Al Mamun",
+      "age": 24,
+      "gender": "male",
+      "location": "CTG",
+      "skill": "NAVY Army",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fteam-member-single%2F2&psig=AOvVaw0zcWyV8DKV5egxfEtA0_La&ust=1719198326945000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDfr_7e8IYDFQAAAAAdAAAAABAS"
+    }
+  ]
+}
